@@ -1,31 +1,31 @@
-import  sequelize  from "../database/database"
-import { DataTypes } from "sequelize/types"
+import { sequelize } from "../database/database.js"
+import { DataTypes } from "sequelize"
 
-export const product = sequelize.define("product",{
-    id:{
+export const product = sequelize.define("product", {
+    id: {
         type: DataTypes.INTEGER,
         defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
     },
-    title:{
+    title: {
         type: DataTypes.STRING(67),
-        allowNull:  false,
+        allowNull: false,
         unique: true
     },
-    prince:{
+    prince: {
         type: DataTypes.FLOAT,
         allowNull: false
     },
-    stock:{
+    stock: {
         type: DataTypes.INTEGER,
         allowNull: false
     },
-    categories:{
+    categories: {
         type: DataTypes.STRING,
         allowNull: false
     },
-    description:{
+    description: {
         type: DataTypes.STRING,
         defaultValue: "Aparently we have no description to offer you, please tell us if we don´t"
     }
-}, {timestamps: false})
+}, { timestamps: false })
