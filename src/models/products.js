@@ -8,7 +8,7 @@ export const product = sequelize.define("product", {
         primaryKey: true,
     },
     title: {
-        type: DataTypes.STRING(67),
+        type: DataTypes.TEXT,
         allowNull: false,
         unique: true
     },
@@ -25,7 +25,7 @@ export const product = sequelize.define("product", {
         allowNull: false
     },
     description: {
-        type: DataTypes.STRING,
+        type: DataTypes.TEXT,
         defaultValue: "Aparently we have no description to offer you, please tell us if we don´t"
     }
 }, { timestamps: false })
