@@ -4,19 +4,6 @@ import { product } from './models/products.js'
 import { sequelize } from "./database/database.js";
 
 
-// async function main() {
-//     try {
-//         await sequelize.sync({ force: false });
-//         app.listen(3001, () => {
-//             console.log("listening on port", 3001);
-//         });
-//     } catch (error) {
-//         console.log("error", error);
-//     }
-// }
-
-// main();
-
 sequelize.sync({ force: true }).then(() => {
   app.listen(3001, () => {
     console.log('%s listening at 3001'); // eslint-disable-line no-console
