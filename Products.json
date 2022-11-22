@@ -7,7 +7,7 @@
       "image": "https://http2.mlstatic.com/D_NQ_NP_2X_979137-MLA44255818618_122020-F.webp",
       "stock": 20,
       "categories": "Mouse",
-      "description": "Wireless"
+      "description": "Wireless Bluetooth Mouse 800 / 1200 / 1600 DPI Ideal to take it wherever you want with your Notebook or for your desktop PC. Plug in the receiver and start using it. Or connect via Bluetooth. You have both options. Light, comfortable and precise with adjustable DPI in three ranges (800/1200/1600 DPI) rechargeable. 500mAH lithium battery. With a single charge you can use it between 10/15 days 8 hours a day. When you stop using it, it enters Stand By automatically to conserve battery and achieve a longer duration."
     },
     {
       "id": 2,
@@ -129,12 +129,945 @@
     {
       "id": 15,
       "title": "Trust Vero Full HD 30FPS webcam black",
-      "price": 150,
-      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_628312-MLA41051245406_032020-F.webp",
+      "price": 50,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_978275-MLA50407262959_062022-F.webp",
       "stock": 10,
+      "categories": "Camera",
+      "description": "Esta cámara web ofrece micrófono incorporado, lo que permite capturar el sonido del ambiente. Podrás disfrutar de conversaciones con altavoz o con auriculares, si buscás mayor privacidad."
+    },
+    {
+
+      "id": 16,
+      "title": "Gamer Armchair Pc Recliner Ergonomic Postural Swivel",
+      "price": 15,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_995786-MLA50019587944_052022-F.webp",
+      "stock": 10,
+      "categories": "Chair",
+      "description": "Características generales:  Mecanismo de ajuste de altura, variable 8cm. Basculante: regula inclinación de respaldo. Asiento con relleno de alta intensidad. Altura regulable por sistema neumático. Estrella metálica cromada reforzada. Costuras reforzadas. Fácil de limpiar. Soporta hasta 110kg"
+    },
+    {
+
+      "id": 17,
+      "title": "Logitech M220 Silent Wireless Mouse White",
+      "price": 10,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_871097-MLA50805978830_072022-F.webp",
+      "stock": 20,
+      "categories": "Mouse",
+      "description": "The optical movement detection system will allow you to move the cursor in a more precise and sensitive way than in traditional systems."
+    },
+    {
+
+      "id": 18,
+      "title": "MageGee MK-Box Portable Gaming Keyboard 60% Mechanical",
+      "price": 33,
+      "image": "https://m.media-amazon.com/images/I/618zZ7u3sUL._AC_SX679_.jpg",
+      "stock": 47,
+      "categories": "Keyboard",
+      "description": "Mini Portable 60% Compact Design: MK-Box is a 68-key mechanical keyboard which has a nice small size, separated arrow keys and all your F-keys you need, it can be used for gaming or working while saving your space."
+    },
+    {
+
+      "id": 19,
+      "title": "SAMSUNG LC27F398FWNXZA SAMSUNG C27F398 27-inch (68.58 cm) Curved LED Monitor",
+      "price": 150,
+      "image": "https://m.media-amazon.com/images/I/91SZVWfPjdL._AC_SX679_.jpg",
+      "stock": 60,
+      "categories": "Display",
+      "description": "Immersive viewing experience: The 1800R curvature of the screen allows you to enjoy big, bold and impressive panoramic views while you work or play at home or in the office"
+    },
+    {
+
+      "id": 20,
+      "title": "Nordic Scandinavian Desk 4 Shelves",
+      "price": 73,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_803776-MLA49746906788_042022-F.webp",
+      "stock": 78,
+      "categories": "Desktop",
+      "description": "Measures of the Armed Furniture: 1.20 wide x 0.72 high (Includes Legs) x 0.45 mts. Depth"
+    },
+    {
+
+      "id": 21,
+      "title": "Apple Laptop MacBook Pro with M2 Chip (2022)",
+      "price": 240,
+      "image": "https://m.media-amazon.com/images/I/41WFC9Dc1YL._AC_SX522_.jpg",
+      "stock": 12,
+      "categories": "Laptop",
+      "description": "13 Inch Retina Display, 8GB RAM, 512GB SSD Storage, TouchBar, Backlit Keyboard, FaceTime HD Camera.Space Gray"
+    },
+    {
+
+      "id": 22,
+      "title": "Wireless Headphones Sony 1000X Series WH-1000XM4 black",
+      "price": 416,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_918604-MLA44483909501_012021-F.webp",
+      "stock": 15,
       "categories": "Headphone",
-      "description": "The over-ear design provides unbeatable comfort thanks to its soft ear cushions. At the same time, its surround sound of the highest level becomes the protagonist of the scene."
-    }
+      "description": "Sony, without a doubt, is one of the most recognized brands in the world for the manufacture of audio devices. Its range of headphones is characterized by always providing a great user experience for its users and offering high quality in all the components of its players. This means that you can notice a great sound from its first use."
+    },
+    {
+
+      "id": 23,
+      "title": "Lenovo FHD 500 Full HD webcam black",
+      "price": 54,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_763260-MLA49644937750_042022-F.webp",
+      "stock": 45,
+      "categories": "Camera",
+      "description": "You no longer have to worry if your PC does not have a camera. This Lenovo device provides the image quality and features you need to communicate easily and effectively virtually."
+    },
+    {
+
+      "id": 24,
+      "title": "Baires4 Executive black mesh desk chair with mesh and synthetic leather upholstery",
+      "price": 89,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_774850-MLA43495940257_092020-F.webp",
+      "stock": 6,
+      "categories": "Chair",
+      "description": "Baires4 is an Argentine chair and furniture company with more than 10 years of experience in the commercialization of office and home equipment. It offers a wide variety of products that are characterized by their quality, design, comfort and functionality."
+    },
+    {
+
+      "id": 25,
+      "title": "Logitech Pebble M350 Pink Wireless Mouse",
+      "price": 20,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_674801-MLA43269505256_082020-F.webp",
+      "stock": 35,
+      "categories": "Mouse",
+      "description": "Its efficient design makes this mouse a comfortable element, with a great user experience for those who seek security in each click."
+    },
+    {
+
+      "id": 26,
+      "title": "AK50 Classic Wired Mechanical Keyboard",
+      "price": 154,
+      "image": "https://m.media-amazon.com/images/I/61kRsn8-srL._AC_SX679_.jpg",
+      "stock": 123,
+      "categories": "Keyboard",
+      "description": "High quality, stable, durable: high-quality aluminum and plastic construction. Extreme durability ensures stable performance and gamers can do whatever they want. 1.8 anti-interference cable, ensures stable data transmission and longer durability. It will become your trusted partner."
+    },
+    {
+
+      "id": 27,
+      "title": "Scepter 30-inch Curved Gaming Monitor",
+      "price": 248,
+      "image": "https://m.media-amazon.com/images/I/612RvBYr4fL._AC_SX679_.jpg",
+      "stock": 65,
+      "categories": "Display",
+      "description": "Ultra-wide, ultra-slim, HDMI, DisplayPort, up to 200Hz, built-in speakers, black metal, C305B-200UN"
+    },
+    {
+
+      "id": 29,
+      "title": "Centro Estant Praga melamine desk 90cm x 77cm x 44cm white and paradise",
+      "price": 50,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_910957-MLA50773409118_072022-F.webp",
+      "stock": 56,
+      "categories": "Desktop",
+      "description": "Whether for studying or working, this Centro Estant desk will help you create a comfortable environment and add order and functionality to your productive hours. Its surface will not only support you, but will allow you to have the resources at your fingertips to facilitate your tasks."
+    },
+    {
+
+      "id": 30,
+      "title": "Apple 2021 MacBook Pro",
+      "price": 190,
+      "image": "https://m.media-amazon.com/images/I/416sLDYqjrL._AC_SX522_.jpg",
+      "stock": 41,
+      "categories": "Laptop",
+      "description": "16-inch M1 Pro Chip with 10-core CPU and 16-core GPU, 16GB RAM, 512GB SSD - Space Gray"
+    },
+    {
+
+      "id": 31,
+      "title": "JBL Tune 510BT Wireless Headphones Black",
+      "price": 40,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_785994-MLA46540771007_062021-F.webp",
+      "stock": 78,
+      "categories": "Headphone",
+      "description": "Al ser on-ear se apoyan en tus orejas cómodamente y ofrecen una gran calidad de sonido. Usalos en viajes largos o actividades al aire libre."
+    },
+    {
+
+      "id": 32,
+      "title": "Logitech C922 Pro Full HD 30FPS webcam black",
+      "price": 70,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_969771-MLA52218670846_102022-F.webp",
+      "stock": 23,
+      "categories": "Camera",
+      "description": "Having a video conference is easier than ever. Its plug and play technology allows you to connect the camera to the computer without having to configure or offer parameters to its drivers."
+    },
+    {
+
+      "id": 33,
+      "title": "Ergonomic Reclining Desk Chair Mesh Fabric Pc Gamer",
+      "price": 133,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_699170-MLA50879918037_072022-F.webp",
+      "stock": 87,
+      "categories": "Chair",
+      "description": "The exclusive design of this model allows you to accommodate your back to sit on it for hours without affecting your posture, so you can perform daily tasks without problems. The height and recline controls will allow you to adapt the chair for the size of your body and the size of the PC desk. It is upholstered in black mesh fabric."
+    },
+    {
+
+      "id": 34,
+      "title": "Wireless Mouse Usb 2.4ghz 10 Meters Distance Pc Notebook",
+      "price": 10,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_979094-MLA50317434150_062022-O.webp",
+      "stock": 50,
+      "categories": "Mouse",
+      "description": "Inalambric white mouse for notebook or any device and wireless. Also Nano USB"
+    },
+    {
+
+      "id": 35,
+      "title": " AK510 Retro Mechanical Gaming Keyboard",
+      "price": 71,
+      "image": "https://m.media-amazon.com/images/I/71--t5c6-lL._AC_SY450_.jpg",
+      "stock": 5,
+      "categories": "Keyboard",
+      "description": "PBT SP Ball Switches - Classic Grey-White Matching - RGB Backlight - Brown Switches"
+    },
+    {
+
+      "id": 36,
+      "title": "SAMSUNG Odyssey G9 49 Inch Gaming Monitor",
+      "price": 1200,
+      "image": "https://m.media-amazon.com/images/I/61SQz8S+fEL._AC_SY450_.jpg",
+      "stock": 100,
+      "categories": "Display",
+      "description": "QHD, 240Hz, 1000R curve, QLED, NVIDIA G-SYNC and FreeSync | Model LC49G95TSSNXZA"
+    },
+    {
+
+      "id": 37,
+      "title": "Desk for PC Su-Office 004-fan 0021 melamine 1630mm x 753mm x 600mm x 1400mm white",
+      "price": 100,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_882265-MLA48123029930_112021-F.webp",
+      "stock": 50,
+      "categories": "Desktop",
+      "description": "Designed with a 90º angle, this L-shaped table will be ideal for optimizing the space in your home and will provide you with an extra place to work in a practical and comfortable way."
+    },
+    {
+
+      "id": 38,
+      "title": "Apple New Mac Mini M1 Chip (8 GB RAM, 512 GB SSD)",
+      "price": 300,
+      "image": "https://m.media-amazon.com/images/I/71pcTYT+ICL._AC_SX342_.jpg",
+      "stock": 16,
+      "categories": "Laptop",
+      "description": "New Apple Mac Mini with a lot of storage space"
+    },
+    {
+
+      "id": 153,
+      "title": "Philips 1000 Series Wireless Headphones TAH1205 Black",
+      "price": 15,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_856025-MLA46482186622_062021-F.webp",
+      "stock": 45,
+      "categories": "Headphone",
+      "description": " Being on-ear, they sit comfortably on your ears and offer great sound quality. Use them on long trips or outdoor activities."
+    },
+    {
+
+      "id": 154,
+      "title": "Jabra PanaCast 4K 30FPS webcam black",
+      "price": 1043,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_915720-MLA49610629403_042022-F.webp",
+      "stock": 20,
+      "categories": "Camera",
+      "description": "You no longer have to worry if your PC does not have a camera. This Jabra device provides the image quality and features you need to communicate easily and effectively virtually."
+    },
+    {
+
+      "id": 155,
+      "title": "Ergonomic Desk Chair Office Pc Armchair Black Mesh",
+      "price": 67,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_839437-MLA51476284580_092022-O.webp",
+      "stock": 54,
+      "categories": "Chair",
+      "description": "Office chair with backrest, resistant materials and great comfort. The 1602 armchair is undoubtedly an ideal chair for daily use with a perfect balance between cost/performance."
+    },
+    {
+
+      "id": 39,
+      "title": "Mouse Gamer For Esports Benq Xowie Fk2-b Black",
+      "price": 10,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_622982-MLA52525602565_112022-O.webp",
+      "stock": 20,
+      "categories": "Mouse",
+      "description": "Mouse ZOWIE FK2-B For Esports. Gaming mouse with symmetrical design for Esports. Low Profile. Without drivers; Plug and Play. Sensor 3360."
+  },
+  {
+      "id": 40,
+      "title": "iKBC CD108 V2 - Vintage Ergonomic Mechanical Keyboard",
+      "price": 90,
+      "image": "https://m.media-amazon.com/images/I/71TyShOD69S._AC_SL1500_.jpg",
+      "stock": 23,
+      "categories": "Keyboard",
+      "description": "With Cherry MX Brown Switch for Win and Mac, Full Size Keyboard Used Mistel Two-Tone Retro Color PBT Double Shot Keycaps for Desktop and Laptop. Mechanical, Gaming, Muti Functional"
+  },
+  {
+      "id": 41,
+      "title": "LG 38WN95C-W 38 Inch 21:9 Ultrawide QHD+ (3840 x 1600) Curved Monitor",
+      "price": 600,
+      "image": "https://m.media-amazon.com/images/I/81WrBJdJcIL._AC_SL1500_.jpg",
+      "stock": 18,
+      "categories": "Display",
+      "description": "38-inch ultra-wide curved QHD Plus (3840 x 1600). Viewing angle is 178˚(R/L), 178˚(U/D); brightness is 450 cd/m²; aspect ratio is 21:9. Nano IPS screen. DCI-P3 98% color gamut and VESA DisplayHDR 600. Thunderbolt 3 connectivity. 1ms IPS (GtG) response time and 144Hz refresh rate. NVIDIA G-SYNC compatible. Tilt/height/swivel adjustable stand."
+  },
+  {
+      "id": 42,
+      "title": "Combo Floating Desk + Shelves",
+      "price": 30,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_850781-MLA48929310422_012022-O.webp",
+      "stock": 23,
+      "categories": "Desktop",
+      "description": "This desk was specially developed for computers and notebooks, it has ample air circulation. Ideal for work and study. It has space for better use, organization and accommodation of equipment and accessories, increasing efficiency during use. Its design was thought exclusively for right-handed and left-handed users. Produced with high quality melamine material that provides durability and resistance to the desktop."
+  },
+  {
+      "id": 43,
+      "title": "Acer Aspire C27-1655-UA93 AIO Desktop | 27-inch Full HD IPS screen",
+      "price": 1000 ,
+      "image": "https://m.media-amazon.com/images/I/71udN1DBtlL._AC_SL1500_.jpg",
+      "stock": 15,
+      "categories": "Laptop",
+      "description": "Thin. Premium. Impressive: The unmatched speed of this pair of premium Windows 10 Pro AIO PCs for everyday productivity. Enjoy vivid colors offered by this great Full HD PC. It features an Intel Core i7 processor, NVIDIA GeForce MX330 graphics, and fast Wi-Fi 6."
+  },
+  {
+      "id": 44,
+      "title": "JBL Tune 510BT Wireless Headphones White",
+      "price": 40,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_995437-MLA46540625339_062021-O.webp",
+      "stock": 20,
+      "categories": "Headphone",
+      "description": "The perfect format for you. Being on-ear, they sit comfortably on your ears and offer great sound quality. Use them on long trips or outdoor activities."
+  },
+  {
+      "id": 45,
+      "title": "Web Cam Imi Vidlok Business W91 Usb Full Hd /makkax",
+      "price": 29,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_619767-MLA46998015923_082021-F.webp",
+      "stock": 21,
+      "categories": "Camera",
+      "description": "You no longer have to worry if your PC does not have a camera. This Vidlok device provides the image quality and features you need to communicate easily and effectively online."
+  },
+  {
+      "id": 46,
+      "title": "Gamer Chair Genotype Black Playstation Xbox Pc Office",
+      "price": 253 ,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_910436-MLA51822812147_102022-F.webp",
+      "stock": 22,
+      "categories": "Chair",
+      "description": "If you are looking for an excellent option to spend hours in front of the screen, the G-RISE chair offers you the best experience, due to its design and quality. When we manufacture the G-RISE armchair, we base ourselves on the experience of the users to arrive at a highly recommended and nationally manufactured product. It is a chair recommended for people up to 1.80 meters tall and supports up to 120kg, it is made up of a highly durable injected plastic base, with a high-density foam seat, ergonomic and anatomical backrest that provides the best experience."
+  },
+  {
+      "id": 47,
+      "title": "Flat Mouse With Lid And Smooth Retractable Cable",
+      "price": 12,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_668786-MLA30697068378_052019-F.webp",
+      "stock": 15,
+      "categories": "Mouse",
+      "description": "2.4 GHz wireless optical mouse. Two main buttons and an interactive scroll wheel -Sensor. Auto connection -Auto standby mode. Operating range: 10 meters. Power supply: 2 AAA batteries (not included). Compatible with Windows xp / vista / 7 and mac."
+  },
+  {
+      "id": 48,
+      "title": "Logitech K845 Illuminated Mechanical Keyboard",
+      "price": 83,
+      "image": "https://m.media-amazon.com/images/I/51J05wjSVGL._AC_SL1000_.jpg",
+      "stock": 19,
+      "categories": "Keyboard",
+      "description": "An adjustable tilt of 4 to 8 degrees and a slim front let you type at a comfortable angle."
+  },
+  {
+      "id": 49,
+      "title": "LG 48GQ900-B 48-inch Ultragear",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/710zVnlJBnL._AC_SL1500_.jpg",
+      "stock": 20,
+      "categories": "Display",
+      "description": "48-inch UHD 4K (3840 x 2160) OLED display. Take gaming to the next level thanks to an ultra-large 48-inch monitor, for a game-changing, immersive experience."
+  },
+  {
+      "id": 50,
+      "title": "Modern Minimalist Lacquered Office Desk",
+      "price": 184,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_608864-MLA40739356027_022020-F.webp",
+      "stock": 22,
+      "categories": "Desktop",
+      "description": "Made entirely of solid wood and painted with a torch with white lacquer polyurethane semi-matte non-toxic anti-yellowish. Measurements 1.20 wide x 1.60 high and 40 deep. Thickness of the cubes 18 mm desk top and lateral 30 mm."
+  },
+  {
+    "id": 51,
+    "title": "Notebook Lenovo",
+    "price": 666,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_819950-MLA51824970114_102022-F.webp",
+    "stock": 13,
+    "categories": "Laptop",
+    "description": "Operating System Windows 10. Screen Size 14'' Screen. Screen Resolution Full HD 1920x1080p. Integrated HD Webcam. Keyboard language Spanish. Battery 44.5 Wh. RAM memory 16 GB DDR4. Frequency 3200 Mhz"
+},
+  {
+      "id": 52,
+      "title": "Soundcore Life Series Life Q20 Wireless Headphones black",
+      "price": 59,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_839896-MLA48699253277_122021-F.webp",
+      "stock": 25,
+      "categories": "Headphone",
+      "description": "The perfect format for you. The over-ear design provides unbeatable comfort thanks to its soft pads. At the same time, its surround sound of the highest level becomes the protagonist of the scene."
+  },
+  {
+      "id": 53,
+      "title": "Microsoft LifeCam HD-3000 HD 30FPS webcam black",
+      "price": 34,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_860148-MLA52221501280_102022-F.webp",
+      "stock": 12,
+      "categories": "Camera",
+      "description": "You no longer have to worry if your PC does not have a camera. This Microsoft device provides the image quality and features you need to communicate easily and effectively in virtuality. This webcam offers a built-in microphone, which allows you to capture the sound of the environment. You can enjoy conversations with speaker or headphones, if you are looking for more privacy."
+  },
+  {
+      "id": 54,
+      "title": "Ergonomic Office PC Desk",
+      "price": 381,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_620191-MLA50136761697_052022-F.webp",
+      "stock": 13,
+      "categories": "Chair",
+      "description": "Synchron mechanism with multi-position brake so you can work in complete comfort. Pneumatic and tension regulation for different user weights. 45kg injected foam seat with multi-laminated wood interior. Height adjustable lumbar support. EPIN base (37% elastic fiber 63% Nylon). Rubber band wheels. Backrest with vertical and angular adjustable headrest. Support arms adjustable in height, 9 levels."
+  },
+  {
+      "id": 55,
+      "title": "Flat Mouse",
+      "price": 10,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_713682-MLA29760315790_032019-F.webp",
+      "stock": 34,
+      "categories": "Mouse",
+      "description": "Optical mouse. Two main buttons and an interactive scroll wheel. Comes with led light that turns on when plugged in. Measure: 50mm x 85mm x 15mm. Cable 78cm long."
+  },
+  {
+      "id": 56,
+      "title": "FL ESPORTS FL980 98-Key Wired Mechanical Keyboard",
+      "price": 102,
+      "image": "https://m.media-amazon.com/images/I/617RKFuBuNL._AC_SL1500_.jpg",
+      "stock": 22,
+      "categories": "Keyboard",
+      "description": "Practical 98 keys has no limits: the 980 design was known as a unique combination of practical and compact. Only 6 keys are lost, for impossible high utilization and maximum compactness, a fully standard function TKL size keyboard."
+  },
+  {
+      "id": 57,
+      "title": "SAMSUNG S95UA 49 Inch Super Ultra Wide Dual QHD Monitor",
+      "price": 1025,
+      "image": "https://m.media-amazon.com/images/I/71RfMIBWkLL._AC_SL1500_.jpg",
+      "stock": 17,
+      "categories": "Display",
+      "description": " Dual QHD guarantees greater depth in every detail, offering incredibly realistic images; 32:9 super ultra-wide screen maximizes your screen real estate for seamless multitasking on a single computer screen"
+  },
+  {
+      "id": 58,
+      "title": "Modern Desk Youth Office Room With Glass",
+      "price": 158,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_800202-MLA42976754731_082020-O.webp",
+      "stock": 15,
+      "categories": "Desktop",
+      "description": "1.36 Mts Width. 0.76 Mts High. 0.60 Mts Deep. First Quality Melamine."
+  },
+  {
+      "id": 59,
+      "title": "Lenovo IdeaCentre AIO 3 AMD All-in-One Computer",
+      "price": 150,
+      "image": "https://m.media-amazon.com/images/I/71guoY+nr7L._AC_SL1500_.jpg",
+      "stock": 13,
+      "categories": "Laptop",
+      "description": "We've designed a slim and compact all-in-one computer for ease and convenience with fewer cables and clutter, a cradle for your cell phone, plus instant privacy and instant login features for better security; wireless keyboard and mouse included."
+  },
+  {
+      "id": 60,
+      "title": "Logitech H390 Black Headphones",
+      "price": 47,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_878789-MLA40161268975_122019-F.webp",
+      "stock": 19,
+      "categories": "Headphone",
+      "description": "On the street, in the bus or in the office, always have your Logitech headphones at hand and escape from the routine for a while! You will be able to enjoy the music you like the most and your favorite podcasts whenever and wherever you want."
+  },
+  {
+      "id": 61,
+      "title": "Webcam 1080p Logitech Streamcam Plus With Tripod",
+      "price": 113,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_891089-MLA47342257361_092021-F.webp",
+      "stock": 20,
+      "categories": "Camera",
+      "description": "Take your content to another level and share your passion with the Logitech StreamCam, the perfect camera for broadcasting on your favorite platforms. It's even better when used with Logitech Capture. Capture allows you to automate exposure, framing, stabilization, etc. without distracting from the content."
+  },
+  {
+      "id": 62,
+      "title": "MRB Full 6D ergonomic black gamer desk chair with synthetic leather upholstery",
+      "price": 253,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_663934-MLA50806958899_072022-F.webp",
+      "stock": 23,
+      "categories": "Chair",
+      "description": "Designed for those who spend many hours in front of the computer. The seat and backrest adapt to your different positions throughout the game. Enjoy without neglecting the lumbar, dorsal and cervical areas."
+  },
+  {
+      "id": 63,
+      "title": "Mouse Philips M344 Black Wireless Connection",
+      "price": 13,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_799663-MLA43696620831_102020-O.webp",
+      "stock": 14,
+      "categories": "Mouse",
+      "description": "Weight: 0.40 kg. Design type: Ergonomic. Connection: 2.4Ghz wireless connection up to 10m. Buttons: 3. Sensor precision: 1600 dpi. No drivers required. Color: Black. Dimensions (W, H, L) in cm: 20 x 10 x 20"
+  },
+  {
+      "id": 64,
+      "title": "Genius LuxeMate 100 QWERTY Spanish keyboard black color",
+      "price": 112,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_886478-MLA45315453928_032021-F.webp",
+      "stock": 17,
+      "categories": "Keyboard",
+      "description": "This Genius keyboard is the best complement to do all kinds of activities. It is comfortable and practical when writing documents, browsing and searching the internet, whether at work or in the comfort of your home."
+  },
+  {
+      "id": 65,
+      "title": "LG Full HD IPS UltraWide Monitor",
+      "price": 492,
+      "image": "https://m.media-amazon.com/images/I/61xdWu6dlgL._AC_SL1000_.jpg",
+      "stock": 12,
+      "categories": "Display",
+      "description": "27-inch Full HD (1920 x 1080) IPS monitor. 3-sided virtually borderless design. Radeon Free Sync Technology. Dual HDMI input. On-screen split screen control."
+  },
+  {
+      "id": 66,
+      "title": "Desk Library With Led light",
+      "price": 130,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_734332-MLA48452807797_122021-F.webp",
+      "stock": 15,
+      "categories": "Desktop",
+      "description": "Large desk of 1.21 x 0.60 x 0.75 meters. Includes white LED light, with complete electrical installation: switch, wiring, transformer and 220V tab. Three 0.40 mts drawers with metal sliders. Aluminum fittings."
+  },
+  {
+      "id": 67,
+      "title": "Dell Inspiron 24 5400 Series All-in-One Touchscreen Desktop",
+      "price": 1119,
+      "image": "https://m.media-amazon.com/images/I/51rzJnPYOcL._AC_SL1000_.jpg",
+      "stock": 10,
+      "categories": "Laptop",
+      "description": "Intel Core i7-1165G7 processor. 23.8-inch AIT Infinity FHD Narrow Border Anti-Glare Touchscreen. NVIDIA GeForce MX330 2GB graphics."
+  },
+  {
+      "id": 68,
+      "title": "Sennheiser HD 206 headphones silver",
+      "price": 51,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_927934-MLA41255110706_032020-O.webp",
+      "stock": 14,
+      "categories": "Headphone",
+      "description": "On the street, in the bus or in the office, always have your Sennheiser headphones at hand and escape from the routine for a while! You will be able to enjoy the music you like the most and your favorite podcasts whenever and wherever you want."
+  },
+  {
+      "id": 69,
+      "title": "Anker PowerConf C200 2K 30FPS Webcam Black",
+      "price": 61,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_905812-MLA51441239267_092022-F.webp",
+      "stock": 18,
+      "categories": "Camera",
+      "description": "You no longer have to worry if your PC does not have a camera. This Anker device provides the image quality and features you need to communicate easily and effectively in virtuality."
+  },
+  {
+      "id": 70,
+      "title": "Multilaser GC-030 ergonomic gamer desk chair",
+      "price": 140,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_742544-MLA50861179897_072022-O.webp",
+      "stock": 11,
+      "categories": "Chair",
+      "description": "It is very common for you to adopt a bad posture when sitting and that undoubtedly brings a series of pathologies that have a direct impact on your well-being. This ergonomic chair is the one for those who spend a lot of time at the desk, whether for work or study, since its design adapts to the shape of the body and guarantees balanced pressure distribution. Create a healthy and productive work environment."
+  },
+  {
+      "id": 71,
+      "title": "Apple Magic Mouse",
+      "price": 13,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_934844-MLA52184175350_102022-O.webp",
+      "stock": 16,
+      "categories": "Mouse",
+      "description": "Magic Mouse is wireless and rechargeable, with a streamlined kickstand design that lets it glide smoothly across your desktop. The Multi-Touch surface lets you perform simple gestures like swiping between web pages and scrolling through documents. The incredibly long-lasting internal battery will power your Magic Mouse for up to a month or more between charges"
+  },
+  {
+      "id": 72,
+      "title": "Logitech K400 Plus QWERTY wireless keyboard",
+      "price": 115,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_652942-MLA45325964189_032021-F.webp",
+      "stock": 17,
+      "categories": "Keyboard",
+      "description": "Innovators in design and technology, Logitech is responsible for providing the best user experience for its users. Their keyboards stand out for being resistant and of very good quality, so you can enjoy them for a long time."
+  },
+  {
+      "id": 73,
+      "title": "ASUS ProArt Monitor",
+      "price": 340,
+      "image": "https://m.media-amazon.com/images/I/81t0B6OtO4L._AC_SL1500_.jpg",
+      "stock": 13,
+      "categories": "Display",
+      "description": "27-inch WQHD (2560 x 1440) LED-backlit display with 178° IPS wide viewing angle panel, international color standard 100% sRGB and 100% Rec. 709 wide color gamut."
+  },
+  {
+      "id": 74,
+      "title": "Retractable Floating Desk",
+      "price": 64,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_948288-MLA48279917242_112021-O.webp",
+      "stock": 19,
+      "categories": "Desktop",
+      "description": "Suitable for school, homeOffice, homeWork, university. Height x width x depth CM: Open: 60 x 60 x 55. Closed: 60 x 60 x 15"
+  },
+  {
+      "id": 75,
+      "title": "Acer Aspire C27-1655-UA93 AIO Desktop",
+      "price": 1047,
+      "image": "https://m.media-amazon.com/images/I/71udN1DBtlL._AC_SL1500_.jpg",
+      "stock": 14,
+      "categories": "Laptop",
+      "description": "Thin. Premium. Impressive: The unmatched speed of this pair of premium Windows 10 Pro AIO PCs for everyday productivity. Enjoy vivid colors offered by this great Full HD PC. It features an Intel Core i7 processor, NVIDIA GeForce MX330 graphics, and fast Wi-Fi 6."
+  },
+  {
+      "id": 76,
+      "title": "JBL Tune 710BT Wireless Headphones Black",
+      "price": 69,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_676149-MLA52223273652_102022-O.webp",
+      "stock": 20,
+      "categories": "Headphone",
+      "description": "JBL, a world-renowned brand in the audio market, has been a benchmark for the high quality of its products for more than 70 years. Its range of headphones is varied, since the company offers in-ear, over-ear, on-ear, sports and wireless products. Any of these is a good option to make you enjoy your favorite music."
+  },
+  {
+      "id": 77,
+      "title": "Netmak NM-WEB01 SD 30FPS webcam",
+      "price": 29,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_985879-MLA52220607192_102022-O.webp",
+      "stock": 23,
+      "categories": "Camera",
+      "description": "Having a video conference is easier than ever. Its plug and play technology allows you to connect the camera to the computer without having to configure or offer parameters to its drivers."
+  },
+  {
+      "id": 151,
+      "title": "Gamer Chair Reclining Office Armchair Esports Armchair",
+      "price": 167,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_2X_833953-MLA47701803898_092021-F.webp",
+      "stock": 10,
+      "categories": "Chair",
+      "description": "-Height adjustment, gas system. Covered in premium eco leather. High quality. Moveable armrests in direction and height adjustable. 2 removable cushions (cervical and lumbar). Reclining Backrest: 90 -180° reclined to work, play, read or nap. Supports up to 150 kg"
+  },
+  {
+  
+    "id": 78,
+    "title": "Wireless Bluetooth Rechargeable Dual Ergonomic Mouse",
+    "price": 14,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_798385-MLA48773970456_012022-O.webp",
+    "stock": 120,
+    "categories": "Mouse",
+    "description": "RECHARGEABLE WIRELESS MOUSE, MACBOOK AIR, PRO ALL YEARS AND VERSIONS! IPAD AIR, PRO, MINI ETC ALL VERSIONS, ANDROID AND WINDOWS ALL DEVICES! Made of Built-In charging technology the lithium battery, Quiet design, Adjustable DPI Offers precise positioning, Rechargeable:Built-in rechargeable battery, 2-3 months of use after 3-4 hours of charging, DUAL connection: BLUETOOTH and WITH USB DONGLE 2.4G, Sensing resolution: 3 adjustable DPI (1000 / 1200 / 1600DPI), 450mAh rechargeable battery (long life cycle lithium polymer battery), Support system: Windows Vista, Windows XP Windows7 / 8 / 10 Linux Android mac OS X (compatible with imac one machine / macbook air / Mac mini, macbook pro / ipad / iphone), Tracking System: Optical, Operating distance: 10m, Weight: 3.18oz, Measures: 12cmx5.5cmx2cm."
+  },{
+    "id": 79,
+    "title": "MageGee 75% Mechanical Wired Gaming Keyboard with Blue Switches and Ice Blue Backlight",
+    "price": 30,
+    "image": "https://m.media-amazon.com/images/I/61CKHONChZL._AC_SX679_.jpg",
+    "stock": 210,
+    "categories": "Keyboard",
+    "description": "Metal Panel and Type-C Separate Design: MageGee Star84 75% mechanical keyboard adopts advanced metal panel design, beautiful and strong. The keyboard and the Type-C line can be separated, which is convenient for you to use. Type-C cable adopts specially customized thick anti-interference line, more stable and accurate for your ideas output."
+  },{
+    "id": 80,
+    "title": "Dell Monitor 24 - P2422H - Full HD 1080p, IPS Technology, ComfortView Plus Technology",
+    "price": 130,
+    "image": "https://m.media-amazon.com/images/I/61gwkgOCxWL._AC_SX679_.jpg",
+    "stock": 89,
+    "categories": "Display",
+    "description": "Comfort without sacrificing color: Optimize eye comfort with ComfortView Plus, an integrated always-on display that reduces potentially harmful blue light emissions while delivering accurate color."
+  },{
+    "id": 81,
+    "title": "Industrial Desk Vintage Nordic Iron 130x60",
+    "price": 67,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_921318-MLA49862214814_052022-O.webp",
+    "stock": 65,
+    "categories": "Desktop",
+    "description": "INDUSTRIAL style, length 1.30, width 0.60, high 0.77, 20 mm solid planked wood, Colors: Pine, Light Oak, Dark Oak."
+  },{
+    "id": 82,
+    "title": "Acer Aspire C27-1655-UA93 AIO Desktop, 27'' Full HD IPS Display, 11th Gen Intel Core i7-1165G7, NVIDIA GeForce MX330, 16GB DDR4, 512GB SSD, 1TB HDD, Intel Wireless Wi-Fi 6",
+    "price": 1330,
+    "image": "https://m.media-amazon.com/images/I/71udN1DBtlL._AC_SX679_.jpg",
+    "stock": 40,
+    "categories": "Laptop",
+    "description": "Break the limits of performance with the Intel Core i7-1165G7 processor: up to 4.7 GHz, 4 cores, 8 threads, 12 MB Intel Smart Cache; NVIDIA GeForce MX330 with 2 GB of dedicated GDDR5 VRAM"
+  },{
+    "id":83,
+    "title": "Wireless headphones Sony WH-CH510 black",
+    "price": 63,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_933418-MLA40865317836_022020-O.webp",
+    "stock": 87,
+    "categories": "Headphone",
+    "description": "10m wireless range, the battery lasts 35 hours, hands-free mode included, with built-in microphone, superior sound without limits, comfortable and practical, the battery life depends on the use that is given to the product."
+  },{
+    "id": 84,
+    "title": "Webcam Web Camera Full Hd 1080p With Built-in Microphone And Stand",
+    "price": 30,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_918866-MLA51736308834_092022-O.webp",
+    "stock": 189,
+    "categories": "Camera",
+    "description": "PC-20 FHD Webcam Full HD resolution 1920 x 1080P 30fps, Brand: Phottix, Model: PC-20 FHD,  The Phottix PC-20 FHD webcam delivers high-quality Full HD 1080P video, for better encounters with USB-enabled video conferencing, tutorial, webinar"
+  },{
+    "id": 85,
+    "title": "Office Chair Desk Ergonomic Swivel Computer Pc",
+    "price": 67,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_667882-MLA51261950154_082022-O.webp",
+    "stock": 121,
+    "categories": "Chair",
+    "description": "Model Office chair Mesh Fabirc, back material High quality breathable mesh fabric, high quality PP main frame, high quality PP arm, seat Thick high elastic sponge, chair Leg High-Load And, antirust Steel Five-Star Chair Leg."
+  },{
+    "id": 86,
+    "title": "Microsoft Bluetooth Mint Mouse",
+    "price": 10,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_791646-MLA47177855259_082021-O.webp",
+    "stock": 231,
+    "categories": "Mouse",
+    "description": "To work from home on the computer or take advantage of leisure time, you need comfort and ease of movement. With your Microsoft Bluetooth Mouse find what you are looking for in a single device with the best technology. Its efficient design makes this mouse a comfortable element, with a great user experience for those who seek security in each click. Its Bluetrack sensor will allow you to use it on any surface, it will provide more speed and it will detect orders with greater accuracy."
+  },{
+    "id": 87,
+    "title": "Logitech G Pro Gaming Keyboard, Ultra-Portable Tenkeyless Design, Detachable Micro USB Cable, 16.8 Million LIGHTSYNC Colors and RGB Backlit Keys",
+    "price": 72,
+    "image": "https://m.media-amazon.com/images/I/51K1mE5uVyL._AC_SX679_.jpg",
+    "stock": 179,
+    "categories": "Keyboard",
+    "description": "Compact, ultra-portable keyless design frees up desk space for mouse movement. It is easy to pack up and transport to tournaments. Use LIGHTSYNC to highlight keys and program static lighting patterns to onboard memory for tournament systems that don't allow G HUB installations."
+  },{
+    "id": 88,
+    "title": "KOORUI 27 Inch Computer Monitor 144Hz QHD 2560P Gaming Monitor",
+    "price": 220,
+    "image": "https://m.media-amazon.com/images/I/71Ni33LIM8L._AC_SX679_.jpg",
+    "stock": 57,
+    "categories": "Display",
+    "description": "Model 27E6QC, 16:9 screen ratio, 20 million:1 dynamic contrast ratio, 85% DCI-P3 color gamut, max color 16.7 million colors, net weight 11.2 kg, machine size 640 x 450 x 180 mm , with 1m DP cable, interface audio output. 3-year product warranty: 3-year free returns and exchanges."
+  },{
+    "id": 89,
+    "title": "Melamine Desk Mdf Shelves 90x45 Milan Mdv Projects",
+    "price": 44,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_627680-MLA45569825777_042021-O.webp",
+    "stock": 232,
+    "categories": "Desktop",
+    "description": "MILAN desk, a delicate design with great functionality and suitable for different environments in the house. Made of melamine with an 18 mm thick MDF core (we do not work with chipboard) and PVC edges with mechanized gluing."
+  },{
+    "id": 90,
+    "title": "Dell Inspiron 24 5400 Series 2022 All-in-One Touchscreen Desktop, Intel Core i7-1165G7",
+    "price": 1120,
+    "image": "https://m.media-amazon.com/images/I/51r1CbibGqL._AC_SX679_.jpg",
+    "stock": 21,
+    "categories": "Laptop",
+    "description": "Intel Core i7-1165G7 processor, 23.8-inch AIT Infinity FHD Narrow Border Anti-Glare Touchscreen, NVIDIA GeForce MX330 2GB graphics."
+  },{
+    "id": 91,
+    "title": "Wireless headphones JBL Tune 760NC black",
+    "price": 91,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_961753-MLA48750424812_012022-O.webp",
+    "stock": 153,
+    "categories": "Headphone",
+    "description": "JBL, a world-renowned brand in the audio market, has been a benchmark for the high quality of its products for more than 70 years. Its range of headphones is varied, since the company offers in-ear, over-ear, on-ear, sports and wireless products. Any of these is a good option to make you enjoy your favorite music"
+  },{
+    "id": 92,
+    "title": "Logitech StreamCam Full HD 60FPS Graphite Webcam",
+    "price": 125,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_693511-MLA49292239912_032022-O.webp",
+    "stock": 190,
+    "categories": "Camera",
+    "description": "This webcam offers a built-in microphone, allowing you to capture ambient sound. You can enjoy conversations with speaker or headphones, if you are looking for more privacy."
+  },{
+    "id": 93,
+    "title": "Office Chair Desk Direttore Iii With Executive Leather Upholstery",
+    "price": 113,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_685387-MLA51428136962_092022-O.webp",
+    "stock": 112,
+    "categories": "Chair",
+    "description": "New Direttore III executive chair comes boxed disassembled and ready for you to assemble in just 5 minutes. It includes all the necessary tools for its assembly without inconveniences and with the greatest possible practicality."
+  },{
+    "id": 94,
+    "title": "Genius NX-7000 elegant white wireless mouse",
+    "price": 6,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_737755-MLA32845927869_112019-O.webp",
+    "stock": 331,
+    "categories": "Mouse",
+    "description": "Their main goal is to provide people with a better user experience. In addition, it seeks to incorporate ecological designs that respect the environment. The Genius mouse is characterized by smooth curves that are comfortable in either hand. Thanks to its resolution, you will achieve precise movements on a wide range of surfaces."
+  },{
+    "id": 95,
+    "title": "DIERYA DK61SE Wired 60% Mechanical Keyboard RGB Backlight",
+    "price": 43,
+    "image": "https://m.media-amazon.com/images/I/61oJ4hFUY3L._AC_SX679_.jpg",
+    "stock": 119,
+    "categories": "Keyboard",
+    "description": "Double Shot Keycaps: Using transparent material on the keycap characters, compared with ordinary printed characters do not fade over time, the backlight shows the characters through the transparent layer, you can easily see the keycap characters on Darkness."
+  },{
+    "id": 96,
+    "title": "ASUS VA24DQ 23.8” Monitor, 1080P Full HD",
+    "price": 150,
+    "image": "https://m.media-amazon.com/images/I/71E1ePS8QDL._AC_SX679_.jpg",
+    "stock": 168,
+    "categories": "Display",
+    "description": "Supports both Adaptive-Sync with NVIDIA GeForce* graphics cards and FreeSync with AMD Radeon graphics cards *Compatible with NVIDIA GeForce GTX 10 series, GTX 16 series, RTX 20 series and newer graphics cards."
+  },{
+    "id": 97,
+    "title": "Modern Desk, Youth, Gamer, Glossy Solid Top",
+    "price": 292,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_657146-MLA47170058989_082021-O.webp",
+    "stock": 130,
+    "categories": "Desktop",
+    "description": "Buy with confidence, we are manufacturers, extensive experience in the field, Direct manufacturers, the Best Quality in the Market, We offer professional installation and custom projects, Estimated manufacturing time of 10 to 15 business days."
+  },{
+    "id": 98,
+    "title": "iMac Apple Mgpc3le/a 24' M1 8 Gb Ram 256 Gb Ssd Macos",
+    "price": 6110,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_671398-MLA52368730470_112022-O.webp",
+    "stock":  29,
+    "categories": "Laptop",
+    "description": "24-inch (diagonal) Retina 4.5K, 4480-by-2520 resolution at 218 pixels per inch with support for 1 billion colors, 500-nit brightness, Wide Color Gamut (P3), True Tone technology, Apple M1 CPU chip 8-core with 4 performance cores and 4 efficiency cores 8-core GPU16-core Neural Engine."
+  },{
+    "id": 99,
+    "title": "JBL Tune 500 Headphones Black",
+    "price": 21,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_799004-MLA46345632217_062021-O.webp",
+    "stock": 203,
+    "categories": "Headphone",
+    "description": "Hands-free mode included, integrated voice assistants: Google Assistant and Siri, with built-in microphone, the length of the cable is 118.7 cm, superior sound and without limits, comfortable and practical."
+  },{
+    "id": 100,
+    "title": "Logitech PTZ Pro 2 Full HD 30FPS webcam grey/black",
+    "price": 677,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_973636-MLA49974270809_052022-O.webp",
+    "stock": 74,
+    "categories": "Camera",
+    "description": "Having a video conference is easier than ever. Its plug and play technology allows you to connect the camera to the computer without having to configure or offer parameters to its drivers."
+  },{
+    "id": 101,
+    "title": "Executive Managerial Office Chair Tilt Pc Teleworking",
+    "price": 129,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_974063-MLA50832943524_072022-O.webp",
+    "stock": 99,
+    "categories": "Chair",
+    "description": "The exclusive design of this model allows you to accommodate your back so as not to impair your posture, so whether you use it in your office, your room or your study, you will be able to concentrate on your daily tasks without problem. In addition, the height control, lock and adjust tilt system and the option to raise the armrests will allow you to adapt the chair for the size of the body and the height of the PC desk. It is upholstered in breathable mesh fabric in different colors: black, green, white, turquoise and salmon."
+  },{
+    "id": 102,
+    "title": "Logitech M90 Optical Mouse 1000 Dpi Ambidextrous Windows Mac",
+    "price": 3,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_996334-MLA46720827234_072021-O.webp",
+    "stock": 276,
+    "categories": "Mouse",
+    "description": "Comfortable, simple and ready to use. Simple in design and ready to meet your needs, hassle-free. It is very simple. Plug the cable into the USB port and it's ready to go. No downloads, no setup, no hassle. Whether you're left or right handed, you'll have hours of comfort in this full-size design for ambidextrous use."
+  },{
+    "id": 103,
+    "title": "ROYALAXE X ProtoArc R68 Wireless Mechanical Keyboard",
+    "price": 98,
+    "image": "https://m.media-amazon.com/images/I/61awZklmFSL._AC_SX679_.jpg",
+    "stock": 166,
+    "categories": "Keyboard",
+    "description": "Yellow SMD Gateron Mechanical Switches - Linear Switch w/ 50g Average Actuation Force, 3-Pin Board Mount, 2mm Pre-Action, 4mm Total Travel, MX Frame. Factory lubricated, very smooth."
+  },{
+    "id": 104,
+    "title": "LG 49WQ95C-W 49-inch 32:9 Curved, Ultra-Wide, DQHD (5120 x 1440)",
+    "price": 520,
+    "image": "https://m.media-amazon.com/images/I/81eu3JTeATL._AC_SX679_.jpg",
+    "stock": 200,
+    "categories": "Display",
+    "description": "nVIDIA G-SYNC Compatible: Officially validated by NVIDIA as G-SYNC compatible. This translates to faster, smoother gaming which has been proven to reduce screen tearing and stuttering. Never miss a frame of the action as you clinch your victories."
+  },{
+    "id": 105,
+    "title": "Double Boy Desk With Drawer. 195cm Long",
+    "price": 61,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_778276-MLA48792741922_012022-O.webp",
+    "stock": 167,
+    "categories": "Desktop",
+    "description": "Double Boy Desk with Drawer. Ciudad Muebles presents its new product. On this occasion we present two work tables together with a modern and minimalist filing cabinet with drawers. Ideal for the use of small spaces, optimizing every corner to the maximum. Adaptable to any type of environment. Excellent for use in offices such as workplaces or at home. Due to its aesthetics, it presents excellent functionality. Excellent quality and NO visible screws. It has a PVC edge around the edge of the desk top so as not to hurt the forearms."
+  },{
+    "id": 106,
+    "title": "Huawei MateStation S- Desktop PC, AMD Ryzen 5 4600G Processor",
+    "price": 750,
+    "image": "https://m.media-amazon.com/images/I/71OPMWKqZWS._AC_SY450_.jpg",
+    "stock": 53,
+    "categories": "Laptop",
+    "description": "MateStation PC, AMD Ryzen 5 4600G Processor, Radeon Graphics Processor. SSD: 256 GB M.2 with room for expansion of other memory.HDD: Supports installing a SATA drive for expansion. Battery capacity: Output 250V/10A,Software Windows 10 Home 64-bit"
+  },{
+    "id": 107,
+    "title": "Motorola Escape 220 Wireless Headphones Black",
+    "price": 39,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_891394-MLA46478527249_062021-O.webp",
+    "stock": 112,
+    "categories": "Headphone",
+    "description": "The battery lasts 23 h, hands-free mode included, integrated voice assistants: Alexa, Siri and Google Assistant, with built-in microphone, superior sound and without limits, comfortable and practical, the battery life depends on the use that is given to the product."
+  },{
+    "id": 108,
+    "title": "Gadnic Web Camera 4k 8mp Usb Microphone Windows Mac + Tripod",
+    "price": 101,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_655166-MLA46869638274_072021-O.webp",
+    "stock": 89,
+    "categories": "Camera",
+    "description": "4K UHD Webcam: Widescreen 3840x2160 high-definition resolution, specifically designed for quality streaming, professional video conferencing when working at home and social video, gaming video, smooth images for Skype conferences, video calls and YouTube recordings. Rotatable Streaming Webcam: Can be oriented 90 degrees, you can adjust to your optimal viewing angle, and provides easy access to any laptop, LCD monitor, desktop, or tripod. What's more, this adjustable range makes it sturdy when you rotate to the required angle, it doesn't move easily."
+  },{
+    "id": 109,
+    "title": "Desk Chair Managerial Executive Armchair Office Pc",
+    "price": 162,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_643947-MLA51287673038_082022-O.webp",
+    "stock": 120,
+    "categories": "Chair",
+    "description": "Reclining, Seat upholstered in eco-leather, Armrests padded and upholstered in eco-leather, Chromed legs"
+  },{
+    "id": 110,
+    "title": "Mouse Genius DX-110 USB soft black",
+    "price": 3,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_610024-MLA44840092138_022021-O.webp",
+    "stock": 450,
+    "categories": "Mouse",
+    "description": "It uses a cable, has a scroll wheel, with an optical sensor, 1000dpi resolution, created to take everywhere, intelligent control and easy navigation."
+  },{
+    "id": 111,
+    "title": "84 Keys Gaming Mechanical Keyboard Compact Gray Gaming Keyboard with Clicky Blue Switches",
+    "price": 30,
+    "image": "https://m.media-amazon.com/images/I/611o+sHq96L._AC_SX679_.jpg",
+    "stock": 192,
+    "categories": "Keyboard",
+    "description": "Ergonomic Mechanical Keyboard: Double shot keycaps make this keyboard more durable and long lasting. High and low keys keep your fingers in a natural state to help reduce hand fatigue after extended use. Non-slip design prevents the keyboard from moving back and forth."
+  },{
+    "id": 112,
+    "title": "LG 27GN950-B Ultragear Gaming Monitor 27 Inch UHD (3840x2160) Nano IPS Display",
+    "price": 800,
+    "image": "https://m.media-amazon.com/images/I/81fdHiIG1dL._AC_SX679_.jpg",
+    "stock": 43,
+    "categories": "Display",
+    "description": "27-inch UHD (3840 x 2160) Nano IPS, IPS 1ms (GtG) 144Hz display with VESA DSC technology, NVIDIA G-SYNC compatible with AMD FreeSync Premium Pro, DCI-P3 98% with VESA DisplayHDR 600, Virtually borderless display on its 4 sides"
+  },{
+    "id": 113,
+    "title": "Craft Original BRown Desk",
+    "price": 127,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_667111-MLA51188532939_082022-O.webp",
+    "stock": 98,
+    "categories": "Desktop",
+    "description": "ideal desk for all types of distribution and setups, you can take advantage of the space for all kinds of components and it is comfortable to place in the room"
+  },{
+    "id": 114,
+    "title": "Acer Aspire TC-885-UA91 Desktop Computer",
+    "price": 815,
+    "image": "https://m.media-amazon.com/images/I/61UgXsi+mcL._AC_SY450_.jpg",
+    "stock": 75,
+    "categories": "Laptop",
+    "description": "9th Generation Intel Core i3 9100 Processor (up to 4.2 GHz), 8 GB DDR4 Memory, 512 GB SSD and 8 GB DVD Dual Layer Drive (DVD RW) Writer, Gigabit Ethernet LAN and Bluetooth 5.1 USB 3 Type-C Gen 2 port (up to 10 slots), 1 USB 3 Gen 2 port, 1 USB 3 Gen 1 port, 4 USB 2 ports and 2 HDMI ports and 1 VGA port, Windows 10 Home, USB keyboard and USB mouse"
+  },{
+    "id": 115,
+    "title": "Havit H2232D black gamer headphones with rgb LED light",
+    "price": 15,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_660325-MLA45810336750_052021-O.webp",
+    "stock": 279,
+    "categories": "Headphone",
+    "description": "Experience the adrenaline of immersing yourself in the scene in another way! Having specific headphones to play completely changes your experience in each game. With the Havit H2232D you don't miss any detail and you hear the audio as it was designed by the creators."
+  },{
+    "id": 116,
+    "title": "Webcam Webcam Streaming Logitech C925e Hd 1080p Usb Full",
+    "price": 55,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_957347-MLA48742387923_012022-O.webp",
+    "stock": 76,
+    "categories": "Camera",
+    "description": "It provides HD 1080p/30 fps recording and autofocus for full clarity in a 78° field of view, perfect for framing the speaker. Two omnidirectional microphones optimized to capture sound up to one meter away so conversations always sound clear."
+  },{
+    "id": 152,
+    "title": "Outlet Diva gamer ergonomic black desk chair with marathon upholstery",
+    "price": 78,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_695659-MLA46217963329_052021-O.webp",
+    "stock": 299,
+    "categories": "Chair",
+    "description": "It is very common for you to adopt a bad posture when sitting and that undoubtedly brings a series of pathologies that have a direct impact on your well-being. This ergonomic chair is the one for those who spend a lot of time at the desk, whether for work or study, since its design adapts to the shape of the body and guarantees balanced pressure distribution. Create a healthy and productive work environment."
+  }
   ],
   "offset": 0,
   "number": 150
