@@ -5,6 +5,8 @@ export const getCategories = async(req, res) => {
         const categories = await product.findAll({
             attributes: ["categories"]
         });
+        const mappie = new Map();
+        
         
         res.status(200).json(categories)
     }catch(err){
