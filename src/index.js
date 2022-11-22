@@ -29,10 +29,11 @@ sequelize.sync({ force: true }).then(() => {
       return product.create({
         id: e.id,
         title: e.title,
-        description: e.description,
         price: e.price,
         image: e.image,
+        stock: e.stock,
         categories: e.categories,
+        description: e.description,
       })
     })
     Promise.all(arr)
