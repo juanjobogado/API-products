@@ -25,7 +25,7 @@ const fs = require("fs")
       let arr = json.results?.map((e) => {
   
     
-  
+        
         return Product.create({
           id: e.id,
           title: e.title,
