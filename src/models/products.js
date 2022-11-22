@@ -1,5 +1,5 @@
-import  sequelize  from "../database/database"
-import { DataTypes } from "sequelize/types"
+import  sequelize  from "../database/database.js"
+import { DataTypes } from "sequelize"
 
 export const Product = sequelize.define("product",{
     id:{
@@ -12,7 +12,7 @@ export const Product = sequelize.define("product",{
         allowNull:  false,
         unique: true
     },
-    prince:{
+    price:{
         type: DataTypes.FLOAT,
         allowNull: false
     },
