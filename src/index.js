@@ -2,18 +2,18 @@ import app from "./app";
 import { sequelize } from "./database/database";
 const fs = require("fs")
 
-async function main() {
-    try {
-        await sequelize.sync({ force: false });
-        app.listen(3001, () => {
-            console.log("listening on port", 3001);
-        });
-    } catch (error) {
-        console.log("error", error);
-    }
-}
+// async function main() {
+//     try {
+//         await sequelize.sync({ force: false });
+//         app.listen(3001, () => {
+//             console.log("listening on port", 3001);
+//         });
+//     } catch (error) {
+//         console.log("error", error);
+//     }
+// }
 
-main();
+// main();
 
 await sequelize.sync({ force: true }).then(() => {
     app.listen(3001, () => {
@@ -21,32 +21,22 @@ await sequelize.sync({ force: true }).then(() => {
     });
     fs.readFile("foodApi.json", (error, data) => {
       if(error) throw error;
-      let dietsSet = new Set();
       let json = JSON.parse(data);
       let arr = json.results?.map((e) => {
   
-        e.diets?.forEach( diet => dietsSet.add(diet))
-       
+    
   
-        return Recipe.create({
+        return Product.create({
           id: e.id,
           title: e.title,
-          summary: e.summary,
-          healthScore: e.healthScore,
+          description: e.description,
+          price: e.price,
           image: e.image,
-          steps: e.analyzedInstructions[0]?.steps.map((a)=>{
-            return {
-              number: a.number,
-              step: a.step
-            }
-          }),
+          categories: e.categories,
         
         })
       })
   
-      let counter = 0
-      let diets = [...dietsSet].map(diet => Type.create({id: counter++, name:diet}))
       Promise.all(arr)
-      Promise.all(diets)
     })
   });
