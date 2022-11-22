@@ -12,7 +12,7 @@ export const product = sequelize.define("product", {
         allowNull: false,
         unique: true
     },
-    prince: {
+    price: {
         type: DataTypes.FLOAT,
         allowNull: false
     },
