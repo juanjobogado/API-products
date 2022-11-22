@@ -20,7 +20,7 @@ sequelize.sync({ force: true }).then(() => {
     app.listen(3001, () => {
       console.log('%s listening at 3001'); // eslint-disable-line no-console
     });
-    fs.readFile("foodApi.json", (error, data) => {
+    fs.readFile("Products.json", (error, data) => {
       if(error) throw error;
       let json = JSON.parse(data);
       let arr = json.results?.map((e) => {

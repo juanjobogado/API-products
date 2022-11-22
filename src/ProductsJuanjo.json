@@ -4,7 +4,7 @@
   
         "id": 1,
         "title": "Monitor",
-        "price": "USD1",
+        "price": 0,
         "image": "https://spoonacular.com/recipeImages/716426-312x231.jpg",
         "stock": 1,
         "categories": ["",""],
