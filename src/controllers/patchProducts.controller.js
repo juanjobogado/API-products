@@ -19,7 +19,7 @@ export const patchProducts = async (req, res) => {
     await findProduct.update(fields);
     res.status(200).json({
       msg: "Changes Saved",
-      post: findProduct,
+      product: findProduct,
     });
   } catch (error) {
     res.status(500).send({msg: "Server error", error: error.message});
