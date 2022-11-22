@@ -1,10 +1,10 @@
 import { Router } from "express";
-import { postProducts } from "../controllers/postProducts.controller.js";
+import { createProduct } from "../controllers/createProduct.controller.js";
 import { patchProducts } from "../controllers/patchProducts.controller.js";
 
 const router = Router();
 
-router.post("/products", postProducts);
+router.post("/products", createProduct);
 router.patch("/products", patchProducts);
 
 

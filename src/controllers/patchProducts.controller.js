@@ -1,6 +1,6 @@
 import { Product } from '../models/products.js'
 
-export default async function patchProducts (req, res){
+export const patchProducts = async (req, res) => {
   try {
     const { id } = req.params;
     const { title, price, stock, categories, description } = req.body;
