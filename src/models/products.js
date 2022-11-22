@@ -3,7 +3,7 @@ import { DataTypes } from "sequelize"
 
 export const product = sequelize.define("product", {
     id: {
-        type: DataTypes.INTEGER,
+        type: DataTypes.STRING,
         defaultValue: DataTypes.UUIDV4,
         primaryKey: true,
     },
