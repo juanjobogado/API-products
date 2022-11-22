@@ -5,7 +5,7 @@ import { patchProducts } from "../controllers/patchProducts.controller.js";
 const router = Router();
 
 router.post("/products", createProduct);
-router.patch("/products", patchProducts);
+router.patch("/products/:id", patchProducts);
 
 
 export default router;
