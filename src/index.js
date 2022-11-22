@@ -1,6 +1,7 @@
-import app from "./app";
-import { sequelize } from "./database/database";
-const fs = require("fs")
+import app from "./app.js";
+import fs from 'fs';
+import { sequelize } from "./database/database.js";
+
 
 // async function main() {
 //     try {
@@ -19,13 +20,13 @@ sequelize.sync({ force: true }).then(() => {
     app.listen(3001, () => {
       console.log('%s listening at 3001'); // eslint-disable-line no-console
     });
-    fs.readFile("foodApi.json", (error, data) => {
+    fs.readFile("Products.json", (error, data) => {
       if(error) throw error;
       let json = JSON.parse(data);
       let arr = json.results?.map((e) => {
   
     
-  
+        
         return Product.create({
           id: e.id,
           title: e.title,
