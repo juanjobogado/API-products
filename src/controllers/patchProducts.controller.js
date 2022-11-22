@@ -1,10 +1,10 @@
-import { Product } from '../models/products.js'
+import { product } from '../models/products.js'
 
 export const patchProducts = async (req, res) => {
   try {
     const { id } = req.params;
     const { title, price, stock, categories, description } = req.body;
-    const findProduct = await Product.findByPk(id);
+    const findProduct = await product.findByPk(id);
     if (!findProduct) return res.status(404).json({msg: "Product not found"})
 
     const fields = {}
