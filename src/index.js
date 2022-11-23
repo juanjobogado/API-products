@@ -4,11 +4,12 @@ import { product } from './models/products.js'
 import { sequelize } from "./database/database.js";
 
 
-sequelize.sync({ force: false }).then(() => {
+sequelize.sync({ force: false }).then( async () => {
   app.listen(process.env.PORT, () => {
     console.log(`%s listening at, ${process.env.PORT}`);
   });
-  let arrayProducts = product.findAll();
+  let arrayProducts = await product.findAll();
+  // console.log(arrayProducts);
   if(!arrayProducts.length){
     fs.readFile("Products.json", (error, data) => {
       if (error) throw error;
