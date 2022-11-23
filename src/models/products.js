@@ -12,6 +12,10 @@ export const product = sequelize.define("product", {
         allowNull: false,
         unique: true
     },
+    image: {
+        type: DataTypes.STRING,
+        allowNull: false
+    },
     price: {
         type: DataTypes.FLOAT,
         allowNull: false
