@@ -6,7 +6,7 @@ import { sequelize } from "./database/database.js";
 
 sequelize.sync({ force: true }).then(() => {
   app.listen(process.env.PORT, () => {
-    console.log(`%s listening at, ${process.env.PORT}`); // eslint-disable-line no-console
+    console.log(`%s listening at, ${process.env.PORT}`);
   });
   fs.readFile("Products.json", (error, data) => {
     if (error) throw error;
