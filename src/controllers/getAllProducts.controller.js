@@ -8,11 +8,11 @@ export const getAllProducts = async (req, res) => {
     const maxPrice = req.query.maxPrice
     const orderAttribute = req.query.orderAttribute
     const orderDirection = req.query.orderDirection
-    const categories = req.query.categories // "mouse"
+    const categories = req.query.categories 
     
     if(!name){
-      let conditions = {}
-      let where = {}
+      let conditions = {} //Order and Where
+      let where = {} //Filters
 
       if (minPrice && maxPrice) where.price = {[Op.between]:[minPrice, maxPrice]}
       if (categories) where.categories = categories
