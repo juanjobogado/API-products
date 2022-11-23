@@ -2,8 +2,8 @@ import { product } from '../models/products.js'
 
 export const createProduct = async (req, res) => {
     try {
-        const { title, price, stock, categories, description } = req.body;
-        if (!title || !price || !stock || !categories) throw new Error("bad request");
+        const { title, price, stock, categories, description, image } = req.body;
+        if (!title || !price || !stock || !categories || !image) throw new Error("bad request");
 
 
         const newProduct = await product.create({
@@ -11,7 +11,8 @@ export const createProduct = async (req, res) => {
             price,
             stock,
             categories,
-            description
+            description,
+            image
         })
 
         res.status(201).json(newProduct);
