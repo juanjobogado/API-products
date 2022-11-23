@@ -5,8 +5,8 @@ import { sequelize } from "./database/database.js";
 
 
 sequelize.sync({ force: true }).then(() => {
-  app.listen(process.env.DB_PORT, () => {
-    console.log(`%s listening at, ${process.env.DB_PORT}`);
+  app.listen(process.env.PORT, () => {
+    console.log(`%s listening at, ${process.env.PORT}`);
   });
 //   let arrayProducts = product.findAll();
 //   if(!arrayProducts.length){
