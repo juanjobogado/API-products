@@ -4,7 +4,7 @@ import { product } from './models/products.js'
 import { sequelize } from "./database/database.js";
 
 
-sequelize.sync({ force: true }).then( async () => {
+sequelize.sync({ force: false }).then( async () => {
   app.listen(process.env.PORT, () => {
     console.log(`%s listening at, ${process.env.PORT}`);
   });
