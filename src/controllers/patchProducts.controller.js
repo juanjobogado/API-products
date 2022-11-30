@@ -1,4 +1,6 @@
 import { product } from '../models/products.js'
+import fs from "fs";
+import { uploadImage } from '../cloudinary/cloudinary.js';
 
 export const patchProducts = async (req, res) => {
   try {
@@ -13,6 +15,18 @@ export const patchProducts = async (req, res) => {
     if (stock) fields.stock = stock;
     if (categories) fields.categories = categories;
     if (description) fields.description = description;
+    
+    if (req.files) {
+      console.log("entra")
+      const imageUploaded = await uploadImage(req.files.image.tempFilePath);
+      let id = imageUploaded.public_id;
+      let url = imageUploaded.url;
+      fields.url = id;
+      fields.image = url;
+      await fs.unlink(req.files.image.tempFilePath, err =>{
+          if(err) console.log(err)
+        });
+    }
 
     if (fields === {}) throw new Error("Not enough info");
     

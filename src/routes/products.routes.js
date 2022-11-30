@@ -14,7 +14,10 @@ router.post("/products",fileUpload({
     useTempFiles:true,
     tempFileDir:"./uploads"
   }), createProduct);
-router.patch("/products/:id", patchProducts);
+router.patch("/products/:id",fileUpload({
+  useTempFiles:true,
+  tempFileDir:"./uploads"
+}), patchProducts);
 router.get("/categories", getCategories);
 router.get("/products/:id", idProduct);
 router.delete("/products/:id", deleteProduct)
