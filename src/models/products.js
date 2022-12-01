@@ -1,7 +1,7 @@
 import { sequelize } from "../database/database.js"
 import { DataTypes } from "sequelize"
 
-export const product = sequelize.define("product", { 
+export const product = sequelize.define("product", {
     id: {
         type: DataTypes.STRING,
         defaultValue: DataTypes.UUIDV4,
