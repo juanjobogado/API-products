@@ -26,7 +26,6 @@ export const product = sequelize.define("product", {
     },
     stock: {
         type: DataTypes.INTEGER,
-        allowNull: false
     },
     categories: {
         type: DataTypes.STRING,

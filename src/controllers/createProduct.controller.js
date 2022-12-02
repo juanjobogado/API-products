@@ -1,13 +1,13 @@
-import { product } from '../models/products.js'
-import { uploadImage } from '../cloudinary/cloudinary.js';
+import { product } from "../models/products.js"
+import { uploadImage } from "../cloudinary/cloudinary.js";
 import fs from "fs";
 
 export const createProduct = async (req, res) => {
     try {
-
         const { title, price, stock, categories, description, image } = req.body;
 
-        if (!title || !price || !stock || !categories || !description) throw new Error("bad request");
+        if (!title || !price || !stock || !categories || !description)
+            throw new Error("bad request");
 
         let products = { title, price, stock, categories, description };
 
@@ -51,7 +51,7 @@ export const createProduct = async (req, res) => {
             };
         };
 
-        const newProduct = await product.create(products);
+        const newProduct = await product.create(products)
         res.status(201).send(newProduct);
     } catch (error) {
         console.log(error)
