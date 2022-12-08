@@ -5,7 +5,7 @@ import { uploadImage } from "../cloudinary/cloudinary.js";
 export const patchProducts = async (req, res) => {
   try {
     const { id } = req.params;
-    const { title, price, stock, categories, description } = req.body;
+    const { title, price, stock, categories, description, enabled } = req.body;
     const findProduct = await product.findByPk(id);
     if (!findProduct) return res.status(404).json({ msg: "Product not found" });
 
@@ -15,6 +15,7 @@ export const patchProducts = async (req, res) => {
     if (stock >= 0) fields.stock = stock;
     if (categories) fields.categories = categories;
     if (description) fields.description = description;
+    if (typeof enabled === "boolean") fields.enabled = enabled;
 
     if (req.files) {
       console.log("entra");
@@ -28,7 +29,7 @@ export const patchProducts = async (req, res) => {
       });
     }
 
-    if (fields === {}) throw new Error("Not enough info");
+    if (Object.entries(fields).length === 0) throw new Error("Not enough info");
 
     await findProduct.update(fields);
     res.status(200).json({
