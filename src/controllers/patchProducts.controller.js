@@ -12,7 +12,7 @@ export const patchProducts = async (req, res) => {
     const fields = {};
     if (title) fields.title = title;
     if (price) fields.price = price;
-    if (typeof stock === "number") fields.stock = stock;
+    if (typeof stock === "number" && stock >= 0) fields.stock = stock;
     if (categories) fields.categories = categories;
     if (description) fields.description = description;
     if (typeof enabled === "boolean") fields.enabled = enabled;
