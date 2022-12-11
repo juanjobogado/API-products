@@ -5,26 +5,25 @@ import { uploadImage } from "../cloudinary/cloudinary.js";
 export const patchProducts = async (req, res) => {
   try {
     const { id } = req.params;
-    const { title, price, stock, categories, description, enabled } = req.body;
+    const { title, price, stock, categories, description, enabled, image } = req.body;
     const findProduct = await product.findByPk(id);
     if (!findProduct) return res.status(404).json({ msg: "Product not found" });
 
     const fields = {};
     if (title) fields.title = title;
     if (price) fields.price = price;
-    if (stock >= 0) fields.stock = stock;
+    if (typeof stock === "number") fields.stock = stock;
     if (categories) fields.categories = categories;
     if (description) fields.description = description;
     if (typeof enabled === "boolean") fields.enabled = enabled;
 
-    if (req.files) {
-      console.log("entra");
-      const imageUploaded = await uploadImage(req.files.image.tempFilePath);
+    if (image) {
+      const imageUploaded = await uploadImage(image[0]);
       let id = imageUploaded.public_id;
       let url = imageUploaded.url;
       fields.url = id;
       fields.image = url;
-      fs.unlink(req.files.image.tempFilePath, (err) => {
+      fs.unlink(image[0], (err) => {
         if (err) console.log(err);
       });
     }
